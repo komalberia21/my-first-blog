@@ -5,13 +5,11 @@ h1 a, h2 a {
  body{
    padding-left:  15px;
    color: #C25100;
-   background-color: lightblue;
- }
- div{
-   background-color: #C25100;
+   background-color: MediumSeaGreen;
  }
 
-  .page-header {
+
+.page-header {
     background-color: #C25100;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
@@ -38,7 +36,7 @@ h1, h2, h3, h4 {
 }
 
 .post-form textarea, .post-form input {
-    width: 100%;
+    width: 80%;
 }
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
@@ -48,7 +46,7 @@ h1, h2, h3, h4 {
 }
 
 .post {
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 
 .post h2 a, .post h2 a:visited {
